@@ -1,0 +1,25 @@
+
+.post {
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: transform 100ms ease-in-out;
+  }
+  
+  .post:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 30px rgb(0, 0, 0, 0.8);
+  }
+  
+  .post-content {
+    padding: 30px;
+  }
+  
+  .post img {
+    max-width: 100%;
+  }
+  
+  .button-container {
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+  }

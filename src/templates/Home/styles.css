@@ -1,0 +1,14 @@
+
+
+.container {
+  min-height: 100vh;
+  background-color: #eee;
+  padding: 30px;
+  
+}
+
+
+.search-value {
+  text-align: center;
+  font-size: 2rem;
+}
